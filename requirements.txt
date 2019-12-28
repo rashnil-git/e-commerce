@@ -26,4 +26,4 @@ s3transfer==0.1.13
 six==1.11.0
 snowflake-connector-python==1.6.12
 tenacity==5.0.2
-urllib3==1.24.1
+urllib3==1.24.2
