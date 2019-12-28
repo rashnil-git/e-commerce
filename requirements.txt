@@ -20,10 +20,10 @@ PyJWT==1.6.4
 pyOpenSSL==18.0.0
 python-dateutil==2.7.5
 pytz==2018.7
-PyYAML==3.13
+PyYAML==5.1
 requests==2.20.1
 s3transfer==0.1.13
 six==1.11.0
 snowflake-connector-python==1.6.12
 tenacity==5.0.2
-urllib3==1.24.1
+urllib3==1.24.2
